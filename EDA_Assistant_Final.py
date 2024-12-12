@@ -23,7 +23,7 @@ import openai
 # In[2]:
 
 
-openai_api_key = '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'
+openai_api_key = 'Your OpenAI API key'
 
 
 # In[19]:
